@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tek Narayan Chaudhary(@NepThunder aka Nep)
 - 👀 I’m interested in Application, Web and Game Development
-- 🌱 I’m currently learning Information and Science Engineering
+- 🌱 I’m currently learning Information Science Engineering
 - 📫 How to reach me Instagram-@tek__chaudhary
                       LinkedIn-Tek Chaudhary
 
